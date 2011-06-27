@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StatusPanel()
+comment1.params=g
+comment1.target=void\ update(java.awt.Graphics)
+comment2.params=status
+comment2.target=void\ setStatus(java.lang.String)
+numComments=3

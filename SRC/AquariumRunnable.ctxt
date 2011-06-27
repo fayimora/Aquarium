@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=aquarium\ allFish
+comment0.target=AquariumRunnable(Aquarium,\ java.util.Vector)
+comment1.params=
+comment1.target=int\ getDeadFish()
+comment2.params=
+comment2.target=void\ run()
+comment3.params=time
+comment3.target=void\ setSleepTime(int)
+comment4.params=
+comment4.target=int\ getSleepTime()
+comment5.params=
+comment5.target=boolean\ isRunOK()
+comment6.params=
+comment6.target=void\ stopRunOK()
+comment7.params=
+comment7.target=void\ startRunOK()
+numComments=8

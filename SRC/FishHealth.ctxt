@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FishHealth()
+comment1.params=
+comment1.target=void\ decreaseHealth()
+comment2.params=
+comment2.target=int\ increaseHealth()
+comment2.text=\n\ Increases\ the\ fish\ health\ \n\ @return\ Returns\ the\ amount\ of\ health\ increased\n
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment4.params=
+comment4.target=int\ getValue()
+numComments=5

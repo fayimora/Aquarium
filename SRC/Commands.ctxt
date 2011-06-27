@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Commands()
+comment1.params=
+comment1.target=java.lang.String\ getCommandList()
+comment2.params=cmd
+comment2.target=java.lang.String\ getCommand(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

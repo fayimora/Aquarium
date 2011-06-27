@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="">
+  <entry targetMediaFileId="26" updatableVersionMin="" updatableVersionMax="" fileName="Aquarium_windows-x64_0_0_1.exe" newVersion="0.0.1" newMediaFileId="26" fileSize="4992000" bundledJre="" archive="false">
+    <comment language="en" />
+    <comment language="zh_CN" />
+    <comment language="zh_TW" />
+    <comment language="hr" />
+    <comment language="cs" />
+    <comment language="da" />
+    <comment language="nl" />
+    <comment language="en" />
+    <comment language="fi" />
+    <comment language="fr" />
+    <comment language="de" />
+    <comment language="el" />
+    <comment language="hu" />
+    <comment language="it" />
+    <comment language="ja" />
+    <comment language="ko" />
+    <comment language="no" />
+    <comment language="pl" />
+    <comment language="pt_BR" />
+    <comment language="pt" />
+    <comment language="ro" />
+    <comment language="ru" />
+    <comment language="es" />
+    <comment language="sv" />
+    <comment language="tr" />
+  </entry>
+</updateDescriptor>
+

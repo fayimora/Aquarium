@@ -1,0 +1,27 @@
+public enum FishListEnum implements AquariumFilePathConstants
+{	
+	SUNFISH(SUNFISH_DIR),
+	SUNFISH2(SUNFISH2_DIR),
+	SUNFISHSMALL(SUNFISHSMALL_DIR),
+	SUNFISHSMALL2(SUNFISHSMALL2_DIR),
+	FISH(FISH_DIR),
+	FISH2(FISH2_DIR),
+	BIGFISH(BIGFISH_DIR),
+	BIGFISH2(BIGFISH2_DIR),
+	GOLDFISH(GOLDFISH_DIR),
+	GOLDFISH2(GOLDFISH2_DIR),
+	BIGGOLDFISH(BIGGOLDFISH_DIR),
+	BIGGOLDFISH2(BIGGOLDFISH2_DIR);
+	
+	private String str;
+	
+	FishListEnum(String str)
+	{	
+		this.str = str;
+	}
+
+	public String toString()
+	{	
+		return str;
+	}
+}
